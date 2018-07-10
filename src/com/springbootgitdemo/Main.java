@@ -7,6 +7,11 @@ public class Main {
         System.out.println("Hello World!!!");
         demo();
 	changeFromGit();
+	    changeFromGit();
+	    
+	    changeFromGit();
+	    
+	    changeFromGit();
     }
 
     private static void demo() {
