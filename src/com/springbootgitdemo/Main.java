@@ -33,6 +33,13 @@ public class Main {
 	     demo();
 	      System.out.println("Hello World!!!");
         demo();
+	    
+	    /*change method from github 3*/
+	     System.out.println("Hello World!!!");
+        demo();
+	changeFromGit();
+	    changeFromGit();
+	    
     }
 
     private static void demo() {
