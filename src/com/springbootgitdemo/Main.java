@@ -47,6 +47,12 @@ public class Main {
         changeFromGit();
         changeFromGit();
 	    
+	       /*change method from github 4*/
+	     System.out.println("Hello World!!!");
+        demo();
+	changeFromGit();
+	    changeFromGit();
+	
     }
 
     private static void demo() {
