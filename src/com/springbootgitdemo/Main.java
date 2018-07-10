@@ -52,6 +52,12 @@ public class Main {
         demo();
 	changeFromGit();
 	    changeFromGit();
+
+        /*change method from java before commit*/
+        System.out.println("Hello World!!!");
+        demo();
+        changeFromGit();
+        changeFromGit();
 	
     }
 
