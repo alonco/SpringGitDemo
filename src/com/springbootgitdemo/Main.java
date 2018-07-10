@@ -58,6 +58,11 @@ public class Main {
 	     System.out.println("Hello World!!!");
         demo();
 	
+	        
+	/*change method from github 6*/
+	     System.out.println("Hello World!!!");
+        demo();
+	
     }
 
     private static void demo() {
