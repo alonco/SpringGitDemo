@@ -21,6 +21,17 @@ public class Main {
 	      System.out.println("Hello World!!!");
         demo();
 	      System.out.println("Hello World!!!");
+        
+	    /* change method from github 2*/
+	    demo();
+	     demo();
+	      System.out.println("Hello World!!!");
+        demo();
+	     demo();
+	      System.out.println("Hello World!!!");
+        demo();
+	     demo();
+	      System.out.println("Hello World!!!");
         demo();
     }
 
