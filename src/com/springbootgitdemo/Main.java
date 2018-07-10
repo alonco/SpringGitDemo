@@ -39,6 +39,13 @@ public class Main {
         demo();
 	changeFromGit();
 	    changeFromGit();
+
+
+        /*change method from Java*/
+        System.out.println("Hello World!!!");
+        demo();
+        changeFromGit();
+        changeFromGit();
 	    
     }
 
